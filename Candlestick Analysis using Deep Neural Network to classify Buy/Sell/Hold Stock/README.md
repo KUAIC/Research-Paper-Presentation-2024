@@ -1,0 +1,6 @@
+## Abstract
+>The Nepalese stock market is comparatively small in the global financial market. Despite this, it plays a crucial role in the economy of the country. NEPSE (Nepal Stock Exchange) started its trading floor on 13th January 1994. Government of Nepal, Nepal Rastra Bank, Nepal Industrial Development Corporation and members are the shareholders of NEPSE. The history of the securities market began with the flotation of shares by Biratnagar Jute Mills Ltd. and Nepal Bank Ltd. 
+The volatile nature of stock prices poses challenges for investors and financial analysts seeking to make informed decisions. Traditional statistical and machine learning techniques have been employed to forecast stock market trends but their effectiveness are limited. In recent years deep neural networks(DNNs) have emerged as a promising approach for predictive modeling. This thesis proposal aims to explore the application of deep neural networks to analyze the candlestick representation of the stock market for classifying strategies in the stock market. By harnessing the historic data of stock price, volume based analysis and fundamental analysis, this research can be helpful in decision making for trading and investment purposes.
+<br><br> **Tribhuvan Maharjan**
+
+## Ongoing Research

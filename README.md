@@ -1,0 +1,2 @@
+# Research Paper Presentation Event
+Research Paper Presentation Event is an pre-event of AI Meet 2024 organized by Kathmandu University Artificial Intelligence Club (KUAIC) in collaboration with Department of Artificial Intelligence (DoAI).This event aims to showcase the latest advancements in AI, ML, DL, and Data Science research while providing a platform for networking and knowledge sharing.
